@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<httpSample t="5210" lt="5210" ts="1417599865550" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="6816" lt="6816" ts="1417599866030" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="11776" lt="11776" ts="1417599870828" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="10924" lt="10924" ts="1417599872880" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="1198" lt="1198" ts="1417599882607" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="5635" lt="5635" ts="1417599883811" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="8724" lt="8724" ts="1417599883818" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="3092" lt="3092" ts="1417599889451" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="4969" lt="4969" ts="1417599892550" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="5360" lt="5360" ts="1417599892558" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="1" na="1"/>
+
+<httpSample t="64283" lt="64282" ts="1417600060628" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1026" ng="2" na="2"/>
+<httpSample t="87854" lt="87854" ts="1417600060628" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1026" ng="2" na="2"/>
+<httpSample t="66558" lt="66558" ts="1417600124947" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1026" ng="2" na="2"/>
+<httpSample t="53732" lt="0" ts="1417600148486" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Socket closed" tn="Thread Group 1-2" dt="text" by="2358" ng="2" na="2"/>
+<httpSample t="10710" lt="0" ts="1417600191511" s="false" lb="HTTP Request" rc="Non HTTP response code: java.net.SocketException" rm="Non HTTP response message: Socket closed" tn="Thread Group 1-1" dt="text" by="2358" ng="2" na="2"/>
+
+<httpSample t="3973" lt="3972" ts="1417600208921" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="4062" lt="4061" ts="1417600209428" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="529" lt="529" ts="1417600213496" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="1244" lt="1244" ts="1417600212904" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="1247" lt="1247" ts="1417600214035" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="2975" lt="2975" ts="1417600214157" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="2082" lt="2082" ts="1417600215288" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="6915" lt="6915" ts="1417600217140" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="4005" lt="4005" ts="1417600224068" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="2" na="2"/>
+<httpSample t="10696" lt="10695" ts="1417600217379" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-2" dt="text" by="1152" ng="2" na="2"/>
+
+<httpSample t="2324" lt="2324" ts="1417600280186" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="1" na="1"/>
+
+<httpSample t="874" lt="874" ts="1417600359051" s="true" lb="HTTP Request" rc="200" rm="OK" tn="Thread Group 1-1" dt="text" by="1152" ng="1" na="1"/>
+
+</testResults>
